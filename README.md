@@ -26,6 +26,7 @@ samples, guidance on mobile development, and a full API reference.
     ```
     
     Merupakan fungsi utama dan dijalankan paling pertama pada sebuah aplikasi flutter yang didalamnya terdapat fungsi runApp() yang menjalan kan sebuah class MyApp().
+	![code-snapshot](https://github.com/appworkspaceRM/widget-dasar/assets/135511281/9bf5955c-aaac-45b3-ad3d-fad90cfc276c)
 
 - Class MyApp
     
@@ -64,8 +65,8 @@ samples, guidance on mobile development, and a full API reference.
       }
     }
     ```
-    
-    ![code-snapshot2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/abcb1cf6-3200-4445-9cf9-e3c071b63f38/3aabe9b8-35e9-48a1-b7b3-fe52d437d25d/code-snapshot2.png)
+    ![code-snapshot2](https://github.com/appworkspaceRM/widget-dasar/assets/135511281/cda7389f-b0f6-47d4-ae2d-bdd15792d93a)
+
 
 - Class MyHomePage
     
@@ -160,13 +161,14 @@ samples, guidance on mobile development, and a full API reference.
       }
     }
     ```
+    ![code-snapshot3](https://github.com/appworkspaceRM/widget-dasar/assets/135511281/a279bdce-6247-4bea-bb5d-69c2340405f6)
+
     
-    ![code-snapshot3.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/abcb1cf6-3200-4445-9cf9-e3c071b63f38/08be034d-aa46-404e-a20a-0d6a8897f8f0/code-snapshot3.png)
 
 ====================================================================================
-![Capture.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/abcb1cf6-3200-4445-9cf9-e3c071b63f38/1d3a1d8c-700f-4ddb-9c79-baffb67b7a9b/Capture.png)
+![Capture](https://github.com/appworkspaceRM/widget-dasar/assets/135511281/4f79379a-9af6-49c5-ae58-2f1c9a6a961f)
+![Capture2](https://github.com/appworkspaceRM/widget-dasar/assets/135511281/b0c829ad-8718-4c16-9958-9b2babfefdb3)
 
-![Capture2.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/abcb1cf6-3200-4445-9cf9-e3c071b63f38/72248313-b623-43e6-b861-9adf29b92903/Capture2.png)
 
 setiap detail atau ui tau desain atau bentuk pada flutter disebut Widget. pembuatan pertama kali sebuah dasar widget seperti di layar kita harus mengimport package matretial.dart
 
@@ -250,5 +252,4 @@ class MyApp extends StatelessWidget{
 	}
 }
 ```
-
-![code-snapshot4.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/abcb1cf6-3200-4445-9cf9-e3c071b63f38/adf039d5-d6e6-44fa-92ac-fe7919f5e1ae/code-snapshot4.png)
+![code-snapshot4](https://github.com/appworkspaceRM/widget-dasar/assets/135511281/0006cad4-bd44-4859-8b7c-f7796cc9bc7d)
